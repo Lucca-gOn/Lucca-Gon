@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Lucca-gOn/Lucca-gOn/blob/main/gif/Rosa%20Azul%20e%20Preto%20Gradiente%20Banner%20para%20Twitch.gif" width="100%">
-  <br><br>
   <samp>
       Olá amigo! sou o Lucas
     <br>Cursando desenvolvimento de sistemas na Escola Senai de Informática.<br>
@@ -25,8 +23,12 @@
 <h3 align="left">💻 SKILLS:</h3>
 <div>
 <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="border-radius: 30px" target="_blank"></a>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 30px" target="_blank"></a>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
 <img src="https://github.com/Lucca-gOn/Lucca-gOn/blob/main/gif/linha.gif" width="100%">
 <h3 align="left"> 📱 CONTACTS:</h3>
